@@ -1,4 +1,4 @@
-package org.ecommerce.ecommerceapi.client.repository;
+package org.ecommerce.ecommerceapi.client.repository;Add commentMore actions
 
 import org.ecommerce.ecommerceapi.client.model.Client;
 import org.springframework.data.jpa.repository.JpaRepository;

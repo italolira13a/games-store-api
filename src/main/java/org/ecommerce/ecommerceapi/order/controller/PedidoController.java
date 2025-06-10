@@ -2,7 +2,7 @@ package org.ecommerce.ecommerceapi.order.controller;
 
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.tags.Tag;
-import jakarta.validation.Valid;
+import jakarta.validation.Valid;More actions
 import org.ecommerce.ecommerceapi.client.model.Client;
 import org.ecommerce.ecommerceapi.client.repository.ClientRepository;
 import org.ecommerce.ecommerceapi.order.dto.PedidoRequestDTO;
@@ -79,4 +79,3 @@ public class PedidoController {
         return ResponseEntity.noContent().build();
     }
 }
-

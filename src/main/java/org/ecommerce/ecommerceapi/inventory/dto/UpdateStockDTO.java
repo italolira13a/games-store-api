@@ -1,4 +1,4 @@
-package org.ecommerce.ecommerceapi.inventory.dto;
+package org.ecommerce.ecommerceapi.inventory.dto;Add commentMore actions
 
 import lombok.Data;
 
@@ -21,6 +21,6 @@ public class UpdateStockDTO {
     }
 
     public void setQuantityChange(Integer quantityChange) {
-        this.quantityChange = quantityChange;
+        this.quantityChange = quantityChange;Add commentMore actions
     }
 }

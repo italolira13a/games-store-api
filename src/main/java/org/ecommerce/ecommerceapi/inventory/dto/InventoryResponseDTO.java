@@ -1,4 +1,4 @@
-package org.ecommerce.ecommerceapi.inventory.dto;
+package org.ecommerce.ecommerceapi.inventory.dto;Add commentMore actions
 
 import lombok.Data;
 

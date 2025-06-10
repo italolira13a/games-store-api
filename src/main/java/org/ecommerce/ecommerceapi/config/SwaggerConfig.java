@@ -1,4 +1,4 @@
-package org.ecommerce.ecommerceapi.config;
+package org.ecommerce.ecommerceapi.config;Add commentMore actions
 
 import io.swagger.v3.oas.models.OpenAPI;
 import io.swagger.v3.oas.models.info.Info;

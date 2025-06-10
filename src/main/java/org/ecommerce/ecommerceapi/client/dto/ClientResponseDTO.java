@@ -1,4 +1,4 @@
-package org.ecommerce.ecommerceapi.client.dto;
+package org.ecommerce.ecommerceapi.client.dto;Add commentMore actions
 
 public class ClientResponseDTO {
 

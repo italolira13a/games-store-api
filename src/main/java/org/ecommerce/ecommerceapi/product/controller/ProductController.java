@@ -1,4 +1,4 @@
-package org.ecommerce.ecommerceapi.product.controller;
+package org.ecommerce.ecommerceapi.product.controller;More actions
 
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.tags.Tag;

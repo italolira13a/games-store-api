@@ -1,4 +1,4 @@
-package org.ecommerce.ecommerceapi.client.dto;
+package org.ecommerce.ecommerceapi.client.dto;Add commentMore actions
 
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;
@@ -61,4 +61,3 @@ public class ClientRequestDTO {
         this.senha = senha;
     }
 }
-
